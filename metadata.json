@@ -1,0 +1,6 @@
+{
+  "name": "My Village",
+  "description": "Bilingual Hindi and Odia Digital Gram Panchayat Record System for managing village members, families, and role-based privacy-protected identity records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
